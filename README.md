@@ -31,3 +31,4 @@
 │   ├── Subject.cpp       # Реализация класса Subject
 │   ├── Wrapper.cpp       # Реализация класса Wrapper
 ├── main.cpp              # Точка входа и юнит-тесты
+```
