@@ -3,3 +3,11 @@
 *.vcxproj.filters
 *.vcxproj.user
 *.sln
+x64/*
+Engine Wrapper/x64/*
+test1.txt
+test2.txt
+test3.txt
+test4.txt
+test5.txt
+example.txt
